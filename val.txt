@@ -1,0 +1,1 @@
+/home/user/kaixu/myGitHub/torch-lrcn/data/val/v_Rowing_g12_c01.avi 3

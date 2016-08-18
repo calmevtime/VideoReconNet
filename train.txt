@@ -1,0 +1,3 @@
+/home/user/kaixu/myGitHub/torch-lrcn/data/train/v_Kayaking_g24_c04.avi 1
+/home/user/kaixu/myGitHub/torch-lrcn/data/train/v_PlayingDaf_g25_c07.avi 2
+

@@ -1,0 +1,1 @@
+/home/user/kaixu/myGitHub/torch-lrcn/data/test/v_FloorGymnastics_g12_c02.avi 4
